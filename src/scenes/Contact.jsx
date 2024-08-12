@@ -51,7 +51,11 @@ const Contact = () => {
 			<Box className={`flex ${aboveMobileScreen?'flex-row':'flex-col'} justify-start items-start w-full`}>
 				<Box className='basis-2/5 py-3 pr-10 font-semibold  text-neutral-600'> 
 					<Box className='mb-3'> 
-					If you have any questions, feedback, or just want to say hi, feel free to reach out to me using the form below. I'll get back to you as soon as possible!
+					If you have any questions, feedback, or just want to say hi, feel free to reach out to me using the form. I'll get back to you as soon as possible!
+					</Box>
+					<Box className='mt-2 mb-5'>
+						<Box>If you prefer a different method of contact, you can reach me via email. Feel free to get in touch!</Box>
+						<Box className='mb-3 text-neutral-900'><span className='text-neutral-900'>Email : </span>roopalipatil90@gmail.com</Box>
 					</Box>
 					<Box>
 						<Box className="font-bold mr-1" sx={{ color:'#FF416C'}} component='span'>Thank You</Box> for visiting my portfolio. I look forward to hearing from you!
