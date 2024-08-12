@@ -61,7 +61,7 @@ const Contact = () => {
 					<form
 						target='_blank'
 						onSubmit={onSubmit}
-						action="https://formsubmit.co/roopalip169@gmail.com"
+						action="https://formsubmit.co/c6c00b26a3d1bd6f42887c2d6bbf6109"
 						method="POST"
 					>
 						<input type="hidden" name="_next" value="https://portfolio-website-obsidian.vercel.app/?status=success" />
