@@ -64,7 +64,7 @@ const Contact = () => {
 						action={process.env.REACT_APP_FORM_SUBMIT_URL}
 						method="POST"
 					>
-						<input type="hidden" name="_next" value="http://localhost:3000/?status=success" />
+						<input type="hidden" name="_next" value="https://portfolio-website-obsidian.vercel.app/?status=success" />
 						<Grid container spacing={4}>
 							<Grid item xs={12} sm={6}>
 								<TextField

@@ -57,7 +57,7 @@ export const projectData = [
     title: 'Personal - portfolio',
     description: 'My personal portfolio showcasing skills, projects, and experience, built using React,MUI and Tailwind CSS.',
     highlight: 'Modern layout and interactive elements.',
-    projectLink: '',
+    projectLink: 'https://portfolio-website-obsidian.vercel.app/',
     repoLink: '',
     image: portfolio,
   }
